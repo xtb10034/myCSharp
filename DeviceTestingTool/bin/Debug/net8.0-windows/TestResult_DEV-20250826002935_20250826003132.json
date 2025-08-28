@@ -1,0 +1,85 @@
+{
+  "TestStartTime": "2025-08-26T00:30:11.3812259+08:00",
+  "TestEndTime": "2025-08-26T00:30:20.3867982+08:00",
+  "DeviceId": "DEV-20250826002935",
+  "DeviceType": "温度传感器",
+  "SampleCount": 10,
+  "AverageValue": 25.07,
+  "MaxValue": 27.91,
+  "MinValue": 22.58,
+  "MinThreshold": 24.0,
+  "MaxThreshold": 26.0,
+  "IsPassed": false,
+  "MeasurementDataList": [
+    {
+      "DeviceId": "DEV-20250826002935",
+      "DeviceType": "温度传感器",
+      "Timestamp": "2025-08-26T00:30:11.3814945+08:00",
+      "Value": 23.92,
+      "Unit": "℃"
+    },
+    {
+      "DeviceId": "DEV-20250826002935",
+      "DeviceType": "温度传感器",
+      "Timestamp": "2025-08-26T00:30:12.3811787+08:00",
+      "Value": 24.94,
+      "Unit": "℃"
+    },
+    {
+      "DeviceId": "DEV-20250826002935",
+      "DeviceType": "温度传感器",
+      "Timestamp": "2025-08-26T00:30:13.382703+08:00",
+      "Value": 27.91,
+      "Unit": "℃"
+    },
+    {
+      "DeviceId": "DEV-20250826002935",
+      "DeviceType": "温度传感器",
+      "Timestamp": "2025-08-26T00:30:14.3829705+08:00",
+      "Value": 22.61,
+      "Unit": "℃"
+    },
+    {
+      "DeviceId": "DEV-20250826002935",
+      "DeviceType": "温度传感器",
+      "Timestamp": "2025-08-26T00:30:15.384249+08:00",
+      "Value": 24.05,
+      "Unit": "℃"
+    },
+    {
+      "DeviceId": "DEV-20250826002935",
+      "DeviceType": "温度传感器",
+      "Timestamp": "2025-08-26T00:30:16.3845126+08:00",
+      "Value": 25.94,
+      "Unit": "℃"
+    },
+    {
+      "DeviceId": "DEV-20250826002935",
+      "DeviceType": "温度传感器",
+      "Timestamp": "2025-08-26T00:30:17.3846007+08:00",
+      "Value": 22.58,
+      "Unit": "℃"
+    },
+    {
+      "DeviceId": "DEV-20250826002935",
+      "DeviceType": "温度传感器",
+      "Timestamp": "2025-08-26T00:30:18.3864733+08:00",
+      "Value": 27.65,
+      "Unit": "℃"
+    },
+    {
+      "DeviceId": "DEV-20250826002935",
+      "DeviceType": "温度传感器",
+      "Timestamp": "2025-08-26T00:30:19.3865009+08:00",
+      "Value": 23.68,
+      "Unit": "℃"
+    },
+    {
+      "DeviceId": "DEV-20250826002935",
+      "DeviceType": "温度传感器",
+      "Timestamp": "2025-08-26T00:30:20.3867982+08:00",
+      "Value": 27.45,
+      "Unit": "℃"
+    }
+  ]
+}

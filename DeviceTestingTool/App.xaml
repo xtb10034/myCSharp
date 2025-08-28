@@ -1,0 +1,16 @@
+<Application x:Class="DeviceTestingTool.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DeviceTestingTool"
+             xmlns:converters="clr-namespace:DeviceTestingTool.Converters"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+        <!-- 转换器 -->
+        <converters:BoolToResultConverter x:Key="BoolToResultConverter"/>
+        <converters:BoolToStyleConverter x:Key="BoolToStyleConverter"/>
+        <converters:DeviceTypeToUnitConverter x:Key="DeviceTypeToUnitConverter"/>
+        
+        <!-- ViewModel定位器 -->
+        <local:ViewModelLocator x:Key="Locator" />
+    </Application.Resources>
+</Application>

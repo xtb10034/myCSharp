@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\xtb_git_dir\\MyCSharp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C687875-A0B6-4323-B954-3A63DC8E7C36}|DeviceTestingTool\\DeviceTestingTool.csproj|d:\\xtb_git_dir\\mycsharp1\\devicetestingtool\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C687875-A0B6-4323-B954-3A63DC8E7C36}|DeviceTestingTool\\DeviceTestingTool.csproj|solutionrelative:devicetestingtool\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C687875-A0B6-4323-B954-3A63DC8E7C36}|DeviceTestingTool\\DeviceTestingTool.csproj|d:\\xtb_git_dir\\mycsharp1\\devicetestingtool\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C687875-A0B6-4323-B954-3A63DC8E7C36}|DeviceTestingTool\\DeviceTestingTool.csproj|solutionrelative:devicetestingtool\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C687875-A0B6-4323-B954-3A63DC8E7C36}|DeviceTestingTool\\DeviceTestingTool.csproj|d:\\xtb_git_dir\\mycsharp1\\devicetestingtool\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C687875-A0B6-4323-B954-3A63DC8E7C36}|DeviceTestingTool\\DeviceTestingTool.csproj|solutionrelative:devicetestingtool\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C687875-A0B6-4323-B954-3A63DC8E7C36}|DeviceTestingTool\\DeviceTestingTool.csproj|d:\\xtb_git_dir\\mycsharp1\\devicetestingtool\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C687875-A0B6-4323-B954-3A63DC8E7C36}|DeviceTestingTool\\DeviceTestingTool.csproj|solutionrelative:devicetestingtool\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\xtb_git_dir\\MyCSharp1\\DeviceTestingTool\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "DeviceTestingTool\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\xtb_git_dir\\MyCSharp1\\DeviceTestingTool\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "DeviceTestingTool\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:13:43.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelLocator.cs",
+              "DocumentMoniker": "D:\\xtb_git_dir\\MyCSharp1\\DeviceTestingTool\\ViewModelLocator.cs",
+              "RelativeDocumentMoniker": "DeviceTestingTool\\ViewModelLocator.cs",
+              "ToolTip": "D:\\xtb_git_dir\\MyCSharp1\\DeviceTestingTool\\ViewModelLocator.cs",
+              "RelativeToolTip": "DeviceTestingTool\\ViewModelLocator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:47:45.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\xtb_git_dir\\MyCSharp1\\DeviceTestingTool\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "DeviceTestingTool\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\xtb_git_dir\\MyCSharp1\\DeviceTestingTool\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "DeviceTestingTool\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAiwFIBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:34:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\xtb_git_dir\\MyCSharp1\\DeviceTestingTool\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DeviceTestingTool\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\xtb_git_dir\\MyCSharp1\\DeviceTestingTool\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "DeviceTestingTool\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-25T15:31:31.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

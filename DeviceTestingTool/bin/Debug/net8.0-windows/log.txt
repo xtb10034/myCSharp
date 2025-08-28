@@ -1,0 +1,247 @@
+﻿[2025-08-26 00:07:24] [INFO] 设备 DEV-20250826000717 连接成功
+[2025-08-26 00:07:29] [INFO] 开始对设备 DEV-20250826000717 进行数据采集，采样次数: 10
+[2025-08-26 00:07:33] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass69_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\ViewModels\MainViewModel.cs:line 251
+[2025-08-26 00:07:36] [INFO] 设备 DEV-20250826000717 测试已取消
+[2025-08-26 00:07:42] [INFO] 开始对设备 DEV-20250826000717 进行数据采集，采样次数: 10
+[2025-08-26 00:07:51] [INFO] 设备 DEV-20250826000717 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 00:29:50] [INFO] 设备 DEV-20250826002935 连接成功
+[2025-08-26 00:30:00] [INFO] 开始对设备 DEV-20250826002935 进行数据采集，采样次数: 10
+[2025-08-26 00:30:05] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass69_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\ViewModels\MainViewModel.cs:line 251
+[2025-08-26 00:30:07] [INFO] 设备 DEV-20250826002935 测试已取消
+[2025-08-26 00:30:11] [INFO] 开始对设备 DEV-20250826002935 进行数据采集，采样次数: 10
+[2025-08-26 00:30:20] [ERROR] 发生未处理的异常: 未找到“FailedResult”资源。
+   at MS.Internal.Helper.FindResourceHelper.DoTryCatchWhen(Object arg)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+[2025-08-26 00:30:38] [INFO] 设备 DEV-20250826002935 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 00:31:36] [INFO] 测试结果已保存到 D:\xtb_git_dir\MyCSharp\DeviceTestingTool\bin\Debug\net8.0-windows\TestResult_DEV-20250826002935_20250826003132.json
+[2025-08-26 00:31:41] [INFO] 开始对设备 DEV-20250826002935 进行数据采集，采样次数: 10
+[2025-08-26 00:31:50] [ERROR] 发生未处理的异常: 未找到“FailedResult”资源。
+   at MS.Internal.Helper.FindResourceHelper.DoTryCatchWhen(Object arg)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+[2025-08-26 00:32:31] [INFO] 设备 DEV-20250826002935 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 00:32:33] [INFO] 设备 DEV-20250826002935 已断开连接
+[2025-08-26 00:32:36] [INFO] 设备 DEV-20250826002935 连接成功
+[2025-08-26 00:32:39] [INFO] 设备 DEV-20250826002935 已断开连接
+[2025-08-26 00:32:42] [INFO] 设备 DEV-20250826002935 连接成功
+[2025-08-26 00:32:44] [INFO] 开始对设备 DEV-20250826002935 进行数据采集，采样次数: 10
+[2025-08-26 00:32:53] [ERROR] 发生未处理的异常: 未找到“PassedResult”资源。
+   at MS.Internal.Helper.FindResourceHelper.DoTryCatchWhen(Object arg)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+[2025-08-26 00:32:55] [INFO] 设备 DEV-20250826002935 测试完成，结果: 测试完成，结果: 通过
+[2025-08-26 00:33:14] [INFO] 已从 D:\xtb_git_dir\MyCSharp\DeviceTestingTool\bin\Debug\net8.0-windows\TestResult_DEV-20250826002935_20250826003132.json 加载测试结果
+[2025-08-26 00:33:27] [INFO] 设备 DEV-20250826002935 已断开连接
+[2025-08-26 00:39:14] [INFO] 设备 DEV-20250826003904 连接成功
+[2025-08-26 00:39:21] [INFO] 开始对设备 DEV-20250826003904 进行数据采集，采样次数: 10
+[2025-08-26 00:40:13] [ERROR] 发生未处理的异常: 未找到“FailedResult”资源。
+   at MS.Internal.Helper.FindResourceHelper.DoTryCatchWhen(Object arg)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+[2025-08-26 00:40:21] [INFO] 设备 DEV-20250826003904 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 00:49:30] [INFO] 设备 DEV-20250826004927 连接成功
+[2025-08-26 00:49:32] [INFO] 开始对设备 DEV-20250826004927 进行数据采集，采样次数: 10
+[2025-08-26 00:49:41] [ERROR] 发生未处理的异常: 未找到“FailedResult”资源。
+   at MS.Internal.Helper.FindResourceHelper.DoTryCatchWhen(Object arg)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+[2025-08-26 00:54:05] [INFO] 设备 DEV-20250826004927 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 01:01:00] [INFO] 设备 DEV-20250826010057 连接成功
+[2025-08-26 01:01:01] [INFO] 开始对设备 DEV-20250826010057 进行数据采集，采样次数: 10
+[2025-08-26 01:01:10] [ERROR] 发生未处理的异常: 未找到“FailedResult”资源。
+   at MS.Internal.Helper.FindResourceHelper.DoTryCatchWhen(Object arg)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+[2025-08-26 01:01:23] [INFO] 设备 DEV-20250826010057 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 01:08:29] [INFO] 设备 DEV-20250826010826 连接成功
+[2025-08-26 01:08:31] [INFO] 开始对设备 DEV-20250826010826 进行数据采集，采样次数: 10
+[2025-08-26 01:09:53] [ERROR] 发生未处理的异常: 未找到“FailedResult”资源。
+   at MS.Internal.Helper.FindResourceHelper.DoTryCatchWhen(Object arg)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+[2025-08-26 01:09:55] [INFO] 设备 DEV-20250826010826 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 01:09:59] [INFO] 开始对设备 DEV-20250826010826 进行数据采集，采样次数: 10
+[2025-08-26 01:10:00] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass69_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\ViewModels\MainViewModel.cs:line 251
+[2025-08-26 01:10:02] [INFO] 设备 DEV-20250826010826 测试已取消
+[2025-08-26 01:10:06] [INFO] 开始对设备 DEV-20250826010826 进行数据采集，采样次数: 10
+[2025-08-26 01:19:10] [ERROR] 设备 DEV-20250826011908 连接失败
+[2025-08-26 01:19:12] [INFO] 设备 DEV-20250826011908 连接成功
+[2025-08-26 01:19:14] [INFO] 开始对设备 DEV-20250826011908 进行数据采集，采样次数: 10
+[2025-08-26 01:19:23] [INFO] 设备 DEV-20250826011908 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 01:22:08] [INFO] 设备 DEV-20250826012206 连接成功
+[2025-08-26 01:22:10] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 10
+[2025-08-26 01:22:17] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass69_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\ViewModels\MainViewModel.cs:line 251
+[2025-08-26 01:22:20] [INFO] 设备 DEV-20250826012206 测试已取消
+[2025-08-26 01:22:22] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 10
+[2025-08-26 01:22:23] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass69_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\ViewModels\MainViewModel.cs:line 251
+[2025-08-26 01:22:25] [INFO] 设备 DEV-20250826012206 测试已取消
+[2025-08-26 01:22:26] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 10
+[2025-08-26 01:22:35] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 01:22:46] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 10
+[2025-08-26 01:22:55] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 01:23:01] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 10
+[2025-08-26 01:23:10] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 01:23:13] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 10
+[2025-08-26 01:23:22] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 01:23:25] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 10
+[2025-08-26 01:23:34] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 失败
+[2025-08-26 01:23:38] [INFO] 设备 DEV-20250826012206 已断开连接
+[2025-08-26 01:23:44] [INFO] 设备 DEV-20250826012206 连接成功
+[2025-08-26 01:23:45] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 10
+[2025-08-26 01:23:54] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 通过
+[2025-08-26 01:24:12] [INFO] 设备 DEV-20250826012206 配置已更新
+[2025-08-26 01:24:14] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 10
+[2025-08-26 01:24:23] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 通过
+[2025-08-26 01:24:32] [INFO] 设备 DEV-20250826012206 已断开连接
+[2025-08-26 01:24:36] [INFO] 设备 DEV-20250826012206 连接成功
+[2025-08-26 01:24:45] [INFO] 设备 DEV-20250826012206 配置已更新
+[2025-08-26 01:24:47] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 6
+[2025-08-26 01:24:52] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 通过
+[2025-08-26 01:24:58] [INFO] 设备 DEV-20250826012206 配置已更新
+[2025-08-26 01:24:59] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 6
+[2025-08-26 01:25:04] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 通过
+[2025-08-26 01:25:10] [INFO] 设备 DEV-20250826012206 配置已更新
+[2025-08-26 01:25:11] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 6
+[2025-08-26 01:25:17] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 通过
+[2025-08-26 01:25:21] [INFO] 设备 DEV-20250826012206 已断开连接
+[2025-08-26 01:25:23] [INFO] 设备 DEV-20250826012206 连接成功
+[2025-08-26 01:25:24] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 6
+[2025-08-26 01:25:29] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 通过
+[2025-08-26 01:25:37] [INFO] 设备 DEV-20250826012206 配置已更新
+[2025-08-26 01:25:39] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 7
+[2025-08-26 01:25:41] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.PressureSensor.CollectData() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\Models\PressureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass69_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\myCSharp\DeviceTestingTool\ViewModels\MainViewModel.cs:line 251
+[2025-08-26 01:25:43] [INFO] 设备 DEV-20250826012206 测试已取消
+[2025-08-26 01:29:01] [INFO] 设备 DEV-20250826012206 配置已更新
+[2025-08-26 01:29:02] [INFO] 开始对设备 DEV-20250826012206 进行数据采集，采样次数: 8
+[2025-08-26 01:29:10] [INFO] 设备 DEV-20250826012206 测试完成，结果: 测试完成，结果: 通过
+[2025-08-27 20:35:10] [INFO] 设备 DEV-20250827203507 连接成功
+[2025-08-27 20:35:11] [INFO] 开始对设备 DEV-20250827203507 进行数据采集，采样次数: 10
+[2025-08-27 20:35:20] [INFO] 设备 DEV-20250827203507 测试完成，结果: 测试完成，结果: 失败
+[2025-08-27 20:38:08] [INFO] 设备 DEV-20250827203806 连接成功
+[2025-08-27 20:38:09] [INFO] 开始对设备 DEV-20250827203806 进行数据采集，采样次数: 10
+[2025-08-27 20:38:13] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass69_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 252
+[2025-08-27 20:38:33] [INFO] 设备 DEV-20250827203806 测试已取消
+[2025-08-27 20:39:19] [INFO] 开始对设备 DEV-20250827203806 进行数据采集，采样次数: 10
+[2025-08-27 20:39:28] [INFO] 设备 DEV-20250827203806 测试完成，结果: 测试完成，结果: 失败
+[2025-08-27 21:51:50] [INFO] 设备 DEV-20250827215148 连接成功
+[2025-08-27 21:51:51] [INFO] 开始对设备 DEV-20250827215148 进行数据采集，采样次数: 10
+[2025-08-27 21:52:01] [INFO] 设备 DEV-20250827215148 测试完成，结果: 测试完成，结果: 失败
+[2025-08-27 21:53:44] [INFO] 开始对设备 DEV-20250827215148 进行数据采集，采样次数: 10
+[2025-08-27 21:54:07] [ERROR] 设备 DEV-20250827215401 连接失败
+[2025-08-27 21:54:09] [INFO] 设备 DEV-20250827215401 连接成功
+[2025-08-27 21:54:10] [INFO] 开始对设备 DEV-20250827215401 进行数据采集，采样次数: 10
+[2025-08-27 21:54:13] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass69_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 252
+[2025-08-27 21:54:15] [INFO] 设备 DEV-20250827215401 测试已取消
+[2025-08-27 23:33:14] [INFO] 设备 DEV-20250827233311 连接成功
+[2025-08-27 23:33:15] [INFO] 开始对设备 DEV-20250827233311 进行数据采集，采样次数: 10
+[2025-08-27 23:33:18] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass69_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 252
+[2025-08-27 23:33:19] [INFO] 设备 DEV-20250827233311 测试已取消
+[2025-08-27 23:33:24] [INFO] 开始对设备 DEV-20250827233311 进行数据采集，采样次数: 10
+[2025-08-27 23:33:33] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass69_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 252
+[2025-08-27 23:33:35] [INFO] 设备 DEV-20250827233311 测试已取消
+[2025-08-27 23:33:43] [INFO] 开始对设备 DEV-20250827233311 进行数据采集，采样次数: 10
+[2025-08-27 23:33:52] [INFO] 设备 DEV-20250827233311 测试完成，结果: 测试完成，结果: 失败
+[2025-08-27 23:34:22] [INFO] 设备 DEV-20250827233420 连接成功
+[2025-08-27 23:34:23] [INFO] 开始对设备 DEV-20250827233420 进行数据采集，采样次数: 10
+[2025-08-27 23:34:32] [INFO] 设备 DEV-20250827233420 测试完成，结果: 测试完成，结果: 失败
+[2025-08-27 23:59:03] [INFO] 设备 DEV-20250827235859 连接成功
+[2025-08-27 23:59:04] [INFO] 开始对设备 DEV-20250827235859 进行数据采集，采样次数: 10
+[2025-08-27 23:59:13] [INFO] 设备 DEV-20250827235859 测试完成，结果: 测试完成，结果: 失败
+[2025-08-27 23:59:59] [INFO] 设备 DEV-20250827235956 连接成功
+[2025-08-28 00:00:01] [INFO] 开始对设备 DEV-20250827235956 进行数据采集，采样次数: 10
+[2025-08-28 00:00:10] [INFO] 设备 DEV-20250827235956 测试完成，结果: 测试完成，结果: 失败
+[2025-08-28 00:00:46] [INFO] 设备 哈哈哈
+[2025-08-28 00:01:20] [INFO] 开始对设备 DEV-20250827235956 进行数据采集，采样次数: 10
+[2025-08-28 00:01:30] [INFO] 设备 DEV-20250827235956 测试完成，结果: 测试完成，结果: 失败
+[2025-08-28 00:03:19] [INFO] 设备 哈哈哈
+[2025-08-28 00:05:23] [ERROR] 设备 DEV-20250828000521 连接失败
+[2025-08-28 00:05:25] [INFO] 设备 DEV-20250828000521 连接成功
+[2025-08-28 00:05:26] [INFO] 开始对设备 DEV-20250828000521 进行数据采集，采样次数: 10
+[2025-08-28 00:05:35] [INFO] 设备 DEV-20250828000521 测试完成，结果: 测试完成，结果: 失败
+[2025-08-28 00:05:35] [INFO] 设备 哈哈哈
+[2025-08-28 00:05:42] [INFO] 设备 DEV-20250828000539 连接成功
+[2025-08-28 00:05:43] [INFO] 开始对设备 DEV-20250828000539 进行数据采集，采样次数: 10
+[2025-08-28 00:05:50] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass72_0.<<StartTesting>b__1>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 258
+[2025-08-28 00:05:51] [INFO] 设备 DEV-20250828000539 测试已取消
+[2025-08-28 00:06:01] [INFO] 设备 哈哈哈
+[2025-08-28 00:06:04] [INFO] 开始对设备 DEV-20250828000539 进行数据采集，采样次数: 10
+[2025-08-28 00:06:13] [INFO] 设备 DEV-20250828000539 测试完成，结果: 测试完成，结果: 失败
+[2025-08-28 00:06:26] [INFO] 设备 哈哈哈
+[2025-08-28 00:07:10] [INFO] 设备 DEV-20250828000708 连接成功
+[2025-08-28 00:07:11] [INFO] 开始对设备 DEV-20250828000708 进行数据采集，采样次数: 10
+[2025-08-28 00:07:18] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass72_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 258
+[2025-08-28 00:07:19] [INFO] 设备 DEV-20250828000708 测试已取消
+[2025-08-28 00:07:34] [INFO] 开始对设备 DEV-20250828000708 进行数据采集，采样次数: 10
+[2025-08-28 00:07:43] [INFO] 设备 DEV-20250828000708 测试完成，结果: 测试完成，结果: 失败
+[2025-08-28 00:14:05] [INFO] 设备 DEV-20250828001403 连接成功
+[2025-08-28 00:14:06] [INFO] 开始对设备 DEV-20250828001403 进行数据采集，采样次数: 10
+[2025-08-28 00:14:07] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass72_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 264
+[2025-08-28 00:14:08] [INFO] 设备 DEV-20250828001403 测试已取消
+[2025-08-28 00:14:09] [INFO] 开始对设备 DEV-20250828001403 进行数据采集，采样次数: 10
+[2025-08-28 00:14:18] [INFO] 设备 DEV-20250828001403 测试完成，结果: 测试完成，结果: 失败
+[2025-08-28 00:16:52] [INFO] 设备 DEV-20250828001650 连接成功
+[2025-08-28 00:16:53] [INFO] 开始对设备 DEV-20250828001650 进行数据采集，采样次数: 10
+[2025-08-28 00:17:02] [INFO] 设备 DEV-20250828001650 测试完成，结果: 测试完成，结果: 失败
+[2025-08-28 00:17:10] [INFO] 开始对设备 DEV-20250828001650 进行数据采集，采样次数: 10
+[2025-08-28 00:17:26] [ERROR] 设备 DEV-20250828001725 连接失败
+[2025-08-28 00:17:28] [INFO] 设备 DEV-20250828001725 连接成功
+[2025-08-28 00:17:29] [INFO] 开始对设备 DEV-20250828001725 进行数据采集，采样次数: 10
+[2025-08-28 00:17:29] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass72_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 265
+[2025-08-28 00:17:30] [INFO] 设备 DEV-20250828001725 未采集到任何数据
+[2025-08-28 00:17:32] [INFO] 开始对设备 DEV-20250828001725 进行数据采集，采样次数: 10
+[2025-08-28 00:17:36] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass72_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 265
+[2025-08-28 00:17:46] [INFO] 设备 DEV-20250828001725 测试已被手动停止
+[2025-08-28 00:18:14] [INFO] 设备 DEV-20250828001810 连接成功
+[2025-08-28 00:18:17] [INFO] 开始对设备 DEV-20250828001810 进行数据采集，采样次数: 10
+[2025-08-28 00:18:20] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass72_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 265
+[2025-08-28 00:18:24] [INFO] 设备 DEV-20250828001810 测试已取消
+[2025-08-28 00:18:46] [INFO] 设备 DEV-20250828001844 连接成功
+[2025-08-28 00:18:47] [INFO] 开始对设备 DEV-20250828001844 进行数据采集，采样次数: 10
+[2025-08-28 00:18:53] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass72_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 265
+[2025-08-28 00:18:55] [INFO] 设备 DEV-20250828001844 测试已取消
+[2025-08-28 00:18:56] [INFO] 开始对设备 DEV-20250828001844 进行数据采集，采样次数: 10
+[2025-08-28 00:19:05] [ERROR] 数据采集失败: 数据采集失败，通讯中断
+   at DeviceTestingTool.Models.TemperatureSensor.CollectData() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\Models\TemperatureSensor.cs:line 45
+   at DeviceTestingTool.ViewModels.MainViewModel.<>c__DisplayClass72_0.<<StartTesting>b__0>d.MoveNext() in D:\xtb_git_dir\MyCSharp1\DeviceTestingTool\ViewModels\MainViewModel.cs:line 265
+[2025-08-28 00:19:07] [INFO] 设备 DEV-20250828001844 测试已取消
+[2025-08-28 00:19:47] [INFO] 设备 DEV-20250828001945 连接成功
+[2025-08-28 00:19:48] [INFO] 开始对设备 DEV-20250828001945 进行数据采集，采样次数: 10
+[2025-08-28 00:19:57] [INFO] 设备 DEV-20250828001945 测试完成，结果: 测试完成，结果: 失败
+[2025-08-28 18:52:35] [INFO] 设备 DEV-20250828185233 连接成功
+[2025-08-28 18:52:36] [INFO] 开始对设备 DEV-20250828185233 进行数据采集，采样次数: 10
+[2025-08-28 18:52:45] [INFO] 设备 DEV-20250828185233 测试完成，结果: 测试完成，结果: 失败
