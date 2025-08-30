@@ -91,13 +91,7 @@ namespace DeviceTestingTool.ViewModels
         public PointCollection ChartData
         {
             get => _chartData;
-            //private set => SetProperty(ref _chartData, value);
-            set
-            {
-                _chartData = value;
-                // 关键：通知UI属性已变化
-                OnPropertyChanged(nameof(ChartData));
-            }
+            private set => SetProperty(ref _chartData, value);
         }
 
         public PointCollection tmp
